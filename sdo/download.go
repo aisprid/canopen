@@ -5,10 +5,11 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	"github.com/brutella/can"
-	"github.com/brutella/canopen"
 	"log"
 	"time"
+
+	"github.com/brutella/can"
+	"github.com/brutella/canopen"
 )
 
 const (
@@ -47,7 +48,7 @@ func (download Download) Do(bus *can.Bus) error {
 			data = buf.Bytes()
 		}
 	} else {
-		n = byte(size)
+		n = 4 - byte(size)
 	}
 
 	bytes := []byte{
