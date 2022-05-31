@@ -4,11 +4,12 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/brutella/can"
-	"github.com/brutella/canopen"
 	"log"
 	"os"
 	"os/signal"
+
+	"github.com/aisprid/canopen"
+	"github.com/brutella/can"
 )
 
 var i = flag.String("if", "", "network interface name")

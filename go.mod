@@ -1,4 +1,4 @@
-module github.com/brutella/canopen
+module github.com/aisprid/canopen
 
 go 1.15
 

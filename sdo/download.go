@@ -8,8 +8,8 @@ import (
 	"log"
 	"time"
 
+	"github.com/aisprid/canopen"
 	"github.com/brutella/can"
-	"github.com/brutella/canopen"
 )
 
 const (

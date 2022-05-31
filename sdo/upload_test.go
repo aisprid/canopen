@@ -2,10 +2,11 @@ package sdo
 
 import (
 	"bytes"
-	"github.com/brutella/can"
-	"github.com/brutella/canopen"
 	"reflect"
 	"testing"
+
+	"github.com/aisprid/canopen"
+	"github.com/brutella/can"
 )
 
 type uploadReadWriteCloser struct {
