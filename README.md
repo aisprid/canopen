@@ -6,7 +6,7 @@ The library contains basic functionality and doesn't aim to be a complete implem
 
 ## CANopen
 
-CANopen is a protocol to communicate on a CAN bus. Data is exchanged between nodes using CANopen frames, which uses a subset of the bytes in a CAN frames. This project extends the [can](https://github.com/brutella/can) library to interact with a CANopen nodes. Setup your hard- and software as described [there](https://github.com/brutella/can/blob/master/README.md).
+CANopen is a protocol to communicate on a CAN bus. Data is exchanged between nodes using CANopen frames, which uses a subset of the bytes in a CAN frames. This project extends the [can](https://github.com/aisprid/can) library to interact with a CANopen nodes. Setup your hard- and software as described [there](https://github.com/aisprid/can/blob/master/README.md).
 
 You can find a very good documentation about CANopen [here](http://www.a-m-c.com/download/sw/dw300_3-0-3/CAN_Manual300_3-0-3.pdf).
 

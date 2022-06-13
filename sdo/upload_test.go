@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/aisprid/can"
 	"github.com/aisprid/canopen"
-	"github.com/brutella/can"
 )
 
 type uploadReadWriteCloser struct {

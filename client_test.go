@@ -1,9 +1,10 @@
 package canopen
 
 import (
-	"github.com/brutella/can"
 	"testing"
 	"time"
+
+	"github.com/aisprid/can"
 )
 
 var testFrame = can.Frame{

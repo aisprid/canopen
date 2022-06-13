@@ -8,8 +8,8 @@ import (
 	"os"
 	"os/signal"
 
+	"github.com/aisprid/can"
 	"github.com/aisprid/canopen"
-	"github.com/brutella/can"
 )
 
 var i = flag.String("if", "", "network interface name")

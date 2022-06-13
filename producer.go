@@ -1,8 +1,9 @@
 package canopen
 
 import (
-	"github.com/brutella/can"
 	"time"
+
+	"github.com/aisprid/can"
 )
 
 // Produce repeatedly sends a frame on a bus after a timeout.
