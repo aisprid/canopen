@@ -1,5 +1,9 @@
 github.com/aisprid/can v0.0.3 h1:r/HVfvoEDEzz9xjdv5mYWYE5Z56NeoO321fAAzNURng=
 github.com/aisprid/can v0.0.3/go.mod h1:hMDutGNkpkcVre4AcI/GFn1meXNh5O4VzjBIZHWI5z4=
+github.com/aisprid/can v0.0.4 h1:Y0rB0DbHd+4St2NwR1NRgd2buZZCGppRw5eUgZvCF84=
+github.com/aisprid/can v0.0.4/go.mod h1:hMDutGNkpkcVre4AcI/GFn1meXNh5O4VzjBIZHWI5z4=
 golang.org/x/sys v0.0.0-20181213200352-4d1cda033e06/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d h1:Zu/JngovGLVi6t2J3nmAf3AoTDwuzw85YZ3b9o4yU7s=
 golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.7.0 h1:3jlCCIQZPdOYu1h8BkNvLz8Kgwtae2cagcG/VamtZRU=
+golang.org/x/sys v0.7.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
